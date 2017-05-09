@@ -1,0 +1,16 @@
+Standard Asset package "Environment" is too big to include it in the repository.
+Please import it yourself:
+
+Worldbuilding
+
+import the Standard Asset package "Environment"
+create a new 3d Object "Terrain"
+create mountains!
+add textures and paint them on the terrain
+create a tree with the TreeEditor or use a tree from the standard assets
+add trees and plant them on the terrain
+add the prefab "WaterBasicDaytime" and place/resize it to create a lake or sea
+ 
+Tips
+
+shift-click lowers terrain/removes trees
